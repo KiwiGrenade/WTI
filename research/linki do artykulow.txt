@@ -1,0 +1,20 @@
+Digital Identity Using Blockchain Technology
+https://omnis-pwr.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_unpaywall_primary_10_1016_j_procs_2023_08_090&context=PC&vid=48OMNIS_TUR:48TUR&lang=pl&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=BIBLIOTEKA_ALL&query=any,contains,blockchain%20digital%20identity&offset=0
+
+Blockchain user digital identity big data and information security process protection based on network trust
+https://omnis-pwr.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_elsevier_sciencedirect_doi_10_1016_j_jksuci_2024_102031&context=PC&vid=48OMNIS_TUR:48TUR&lang=pl&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=BIBLIOTEKA_ALL&query=any,contains,blockchain%20digital%20identity&offset=10
+
+Digital Identity Management System Using Blockchain
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4127356
+
+Digital Identity and the Blockchain: Universal Identity Management and the Concept of the “Self-Sovereign” Individual
+https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2020.00026/full
+
+Establishing an International Engagement Model of DigitalIdentity Based on Blockchain
+https://omnis-pwr.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_primary_10_1155_2022_6988211&context=PC&vid=48OMNIS_TUR:48TUR&lang=pl&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=BIBLIOTEKA_ALL&query=any,contains,blockchain%20digital%20identity&offset=30
+
+Designing a Framework for Digital KYC Processes Built on Blockchain-Based Self-Sovereign Identity
+https://omnis-pwr.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_unpaywall_primary_10_1016_j_im_2021_103553&context=PC&vid=48OMNIS_TUR:48TUR&lang=pl&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=BIBLIOTEKA_ALL&query=any,contains,blockchain%20digital%20identity&offset=50
+
+Data Owner Rights Protection and Digital Identity Management Enabled by Blockchain
+https://omnis-pwr.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_unpaywall_primary_10_2478_amns_2025_0046&context=PC&vid=48OMNIS_TUR:48TUR&lang=pl&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=BIBLIOTEKA_ALL&query=any,contains,blockchain%20digital%20identity&offset=60
